@@ -1,2 +1,2 @@
-# selenium_testing
-First steps with selenium and web testing
+# Appium automated Mobile Testing
+Models and methods to interact with different elements
